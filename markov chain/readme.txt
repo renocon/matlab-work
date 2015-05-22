@@ -1,0 +1,1 @@
+Run by typing mendel_genetics in MATLAB console. enter number of characteristics and the number of alleles for each. Lastly enter the number of filial generations to be calculated. The result printed is the final distribution vector of all the combinations of all characteristics after the nth generation.
